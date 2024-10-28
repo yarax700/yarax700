@@ -11,7 +11,7 @@ Process :
     - Mention target audience and tone
     
     <aside>
-    💡
+    
     
     ℹ️ Info
     
@@ -28,7 +28,7 @@ Process :
     - Send confirmation email
     
     <aside>
-    💡
+    
     
     ⚡ Important
     Your $200 package covers:
@@ -50,7 +50,7 @@ Process :
     - Request any clarifications
     
     <aside>
-    💡
+    
     
     🎯 Note
     You'll receive:
